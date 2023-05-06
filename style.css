@@ -82,3 +82,10 @@
     transform: scale(1.1);
  }
  
+
+@media screen and (max-width: 461px){
+.title{
+font-size: 2em;
+}
+
+}
